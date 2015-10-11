@@ -5,8 +5,15 @@
         <description><![CDATA[Bitcoin]]></description>
         <link>https://thegrid.ai/bitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 11 Oct 2015 16:53:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Oct 2015 19:07:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Entrepreneurs Plan Identabit; Identity-Based Bitcoin Alternative]]></title>
+            <description><![CDATA[<article><h1>Entrepreneurs Plan Identabit; Identity-Based Bitcoin Alternative</h1><p>An Australia-based startup has announced plans for a digital currency called Identabit that will enable regulatory acceptance by way of user association. The startup, Thinking Active, characterizes Identabit as the first identity-ensured, decentralized currency. It represents a way to liberate decentralized currencies and will be an alternative to bitcoin, according to a recent press release.</p><img src="https://www.cryptocoinsnews.com/wp-content/uploads/2015/07/identity-theft.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/entrepreneurs-plan-identabit-identity-based-bitcoin-alternative/</link>
+            <guid isPermaLink="false">04dac4b5-d089-48c7-b017-c1fd26e3b35f</guid>
+            <pubDate>Sun, 11 Oct 2015 19:05:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wow, check out Bitcoin growth on LocalBitcoins Volume Charts * /r/Bitcoin]]></title>
             <description><![CDATA[<article><h1>Wow, check out Bitcoin growth on LocalBitcoins Volume Charts * /r/Bitcoin</h1><p>67 points and 24 comments so far on reddit</p><img src="https://i.redditmedia.com/bGBdcsF_7Y7FLcOOvV4eU1rRPG3ZxlxF90zHhXkpahQ.jpg?w=320&s=ad679bfd7930c05e6a71d0697292486c"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.ibtimes.co.uk/tyler-winklevoss-gemini-will-have-positive-effect-price-bitcoin-1523331</link>
             <guid isPermaLink="false">861c7fa5-9898-4557-9d96-3a1c5089ad16</guid>
             <pubDate>Sun, 11 Oct 2015 01:24:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fall 2015: Top Rated Bitcoin Wallets]]></title>
-            <description><![CDATA[<article><h1>Fall 2015: Top Rated Bitcoin Wallets</h1><p>Welcome to our Fall 2015 edition of the top rated and reviewed bitcoin wallets, where we highlight the best ranked bitcoin wallets on the market according to community reviews. For those unfamiliar with our website, we have the largest database of bitcoin wallets where we monitor every wallet and provide tools to the bitcoin community to rate and review each one.</p><img src="http://bitcoinx.io/wp-content/uploads/2014/04/electrum.jpg"></article>]]></description>
-            <link>http://bitcoinx.io/news/reports/fall-2015-top-rated-bitcoin-wallets/</link>
-            <guid isPermaLink="false">78f95bf2-8de4-4017-ab0a-0e964d21f338</guid>
-            <pubDate>Sun, 11 Oct 2015 01:11:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
