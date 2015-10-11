@@ -1,6 +1,5 @@
 name: Bitcoin
 favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.2582
 title: Bitcoin
 cta:
@@ -17,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3e3e3d'
-    - '#000000'
-    - '#ffcb5f'
-    - '#b5893d'
-    - '#b24301'
+    - '#837a7b'
+    - '#261607'
+    - '#4f4d52'
+    - '#ffb03d'
+    - '#fffee0'
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
