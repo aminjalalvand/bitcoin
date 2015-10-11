@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.cryptocoinsnews.com/entrepreneurs-plan-identabit-identity-based-bitcoin-alternative/'
 title: Entrepreneurs Plan Identabit; Identity-Based Bitcoin Alternative
-datePublished: '2015-10-11T19:05:59.756Z'
-dateModified: '2015-10-11T19:04:50.941Z'
+datePublished: '2015-10-11T19:33:34.697Z'
+dateModified: '2015-10-11T19:33:18.704Z'
 sourcePath: _posts/2015-10-11-entrepreneurs-plan-identabit-identity-based-bitcoin-alterna.md
 published: true
 inFeed: true
