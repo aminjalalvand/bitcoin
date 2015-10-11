@@ -2,6 +2,7 @@ name: Bitcoin
 favicon: null
 layout_spectrum: 0.88443
 typography_spectrum: 0.7418
+title: Bitcoin
 cta:
   domain: null
   bucket: null
