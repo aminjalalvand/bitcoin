@@ -5,8 +5,15 @@
         <description><![CDATA[Bitcoin]]></description>
         <link>https://thegrid.ai/bitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 11 Oct 2015 02:53:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Oct 2015 03:08:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://news.bitcoin.com/wp-content/uploads/2015/10/ob.jpg">]]></description>
+            <link>https://thegrid.ai/bitcoin/98f46917-f3b0-4795-afd2-a34a1942fa29/index.html</link>
+            <guid isPermaLink="false">98f46917-f3b0-4795-afd2-a34a1942fa29</guid>
+            <pubDate>Sun, 11 Oct 2015 02:53:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Bitcoin Price Move No One Predicted - and What It Tells Us]]></title>
             <description><![CDATA[<article><h1>The Bitcoin Price Move No One Predicted - and What It Tells Us</h1><p>It has become an article of faith that the Bitcoin price is volatile. And when Bitcoin burst into the public consciousness back in 2013, it was true. Bitcoin prices soared 8,500% in 2013 only to fall 85% by January of this year.</p><img src="http://moneymorning.com/wp-content/blogs.dir/1/files/2015/10/10-9-15-Bitcoin-price.png"></article>]]></description>
@@ -62,13 +69,6 @@
             <link>http://insidebitcoins.com/news/what-will-happen-to-bitcoin-when-the-economy-goes-bust/35243</link>
             <guid isPermaLink="false">8a76f566-9504-4d0e-a2f0-533dfa51a8e3</guid>
             <pubDate>Sun, 11 Oct 2015 00:35:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin - Open source P2P money]]></title>
-            <description><![CDATA[<article><h1>Bitcoin - Open source P2P money</h1><p>Bitcoin is an innovative payment network and a new kind of money. Find all you need to know and get started with Bitcoin on bitcoin.org.</p><img src="https://bitcoin.org/img/icons/opengraph.png"></article>]]></description>
-            <link>https://bitcoin.org/en/</link>
-            <guid isPermaLink="false">93b6f2fd-ebe9-445e-92af-ef565cd04709</guid>
-            <pubDate>Sun, 11 Oct 2015 00:20:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
