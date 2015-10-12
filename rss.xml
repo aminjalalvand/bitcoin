@@ -5,8 +5,15 @@
         <description><![CDATA[Bitcoin]]></description>
         <link>https://thegrid.ai/bitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 12 Oct 2015 17:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2015 20:07:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Bitcoin "Formula": Energy / Time = Truth]]></title>
+            <description><![CDATA[<article><h1>The Bitcoin "Formula": Energy / Time = Truth</h1><p>(or "Why R3, Blythe Masters, Ethereum and "Bankchains" Are All Wrong") Bitcoin is an Information Network backed by Energy / Time ( = Power) Information is only valuable if it's true. ELI50: Bitcoin "Explained As If I Was 50" (the philosophical version): Bitcoin is "backed" by electricity and time.</p><img src="https://s0.wp.com/i/blank.jpg"></article>]]></description>
+            <link>http://webonanza.com/2015/10/12/the-bitcoin-formula-energy-time-truth/</link>
+            <guid isPermaLink="false">0e514046-edc4-4c06-9b9f-518c729a3d7a</guid>
+            <pubDate>Mon, 12 Oct 2015 20:05:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Purse.io Shuts Down Site; Denies Bitcoin Theft Claims by Users]]></title>
             <description><![CDATA[<article><h1>Purse.io Shuts Down Site; Denies Bitcoin Theft Claims by Users</h1><p>Hacking scandals have swept the commercial retail and digital currency sectors for the least three years, and it doesn't seem to be letting up. Purse.io, the relatively new P2P service provider that links Bitcoin to Amazon, has allegedly lost the Bitcoin funds of many of its users, causing the site to shut down on Sunday.</p><img src="http://cointelegraph.com/images/725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3L2VjNzNmMzkwODZkOWRhZGQ5YmJmOWIyZjQ0YTI1NmIxLnBuZw==.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.coindesk.com/bitcoin-in-the-headlines-geminis-stellar-debut/</link>
             <guid isPermaLink="false">52226f7b-d508-4595-8d82-a64675ad8cea</guid>
             <pubDate>Sun, 11 Oct 2015 01:51:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I own 179 BTC, here is my story * /r/Bitcoin]]></title>
-            <description><![CDATA[<article><h1>I own 179 BTC, here is my story * /r/Bitcoin</h1><p>Bitcoin is the currency of the Internet: a distributed, worldwide, decentralized digital money. Unlike traditional currencies such as dollars, bitcoins are issued and managed without any central authority whatsoever: there is no government, company, or bank in charge of Bitcoin. As such, it is more resistant to wild inflation and corrupt banks.</p><img src="https://www.redditstatic.com/icon.png"></article>]]></description>
-            <link>https://www.reddit.com/r/Bitcoin/comments/3o6ly7/i_own_179_btc_here_is_my_story/</link>
-            <guid isPermaLink="false">0c7ebe2e-6146-46fb-97ea-36bbe8b2bd4a</guid>
-            <pubDate>Sun, 11 Oct 2015 01:25:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
