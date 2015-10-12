@@ -5,8 +5,15 @@
         <description><![CDATA[Bitcoin]]></description>
         <link>https://thegrid.ai/bitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 11 Oct 2015 19:35:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2015 17:20:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Purse.io Shuts Down Site; Denies Bitcoin Theft Claims by Users]]></title>
+            <description><![CDATA[<article><h1>Purse.io Shuts Down Site; Denies Bitcoin Theft Claims by Users</h1><p>Hacking scandals have swept the commercial retail and digital currency sectors for the least three years, and it doesn't seem to be letting up. Purse.io, the relatively new P2P service provider that links Bitcoin to Amazon, has allegedly lost the Bitcoin funds of many of its users, causing the site to shut down on Sunday.</p><img src="http://cointelegraph.com/images/725_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3L2VjNzNmMzkwODZkOWRhZGQ5YmJmOWIyZjQ0YTI1NmIxLnBuZw==.jpg"></article>]]></description>
+            <link>http://cointelegraph.com/news/115404/purseio-shuts-down-site-denies-bitcoin-theft-claims-by-users</link>
+            <guid isPermaLink="false">ca8bc7ea-da44-4a6a-948b-a5de275f0f50</guid>
+            <pubDate>Mon, 12 Oct 2015 17:17:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Entrepreneurs Plan Identabit; Identity-Based Bitcoin Alternative]]></title>
             <description><![CDATA[<article><h1>Entrepreneurs Plan Identabit; Identity-Based Bitcoin Alternative</h1><p>An Australia-based startup has announced plans for a digital currency called Identabit that will enable regulatory acceptance by way of user association. The startup, Thinking Active, characterizes Identabit as the first identity-ensured, decentralized currency. It represents a way to liberate decentralized currencies and will be an alternative to bitcoin, according to a recent press release.</p><img src="https://www.cryptocoinsnews.com/wp-content/uploads/2015/07/identity-theft.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.reddit.com/r/Bitcoin/comments/3o6ly7/i_own_179_btc_here_is_my_story/</link>
             <guid isPermaLink="false">0c7ebe2e-6146-46fb-97ea-36bbe8b2bd4a</guid>
             <pubDate>Sun, 11 Oct 2015 01:25:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tyler Winklevoss: Gemini will have a positive effect on price of Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Tyler Winklevoss: Gemini will have a positive effect on price of Bitcoin</h1><p>Tyler Winklevoss, one half of the ownership of New York Bitcoin exchange Gemini, is hopeful its compliance conscious approach will provide an on-ramp to big blue chips and push up the price of Bitcoin.</p><img src="http://d.ibtimes.co.uk/en/full/1462876/gemini.png"></article>]]></description>
-            <link>http://www.ibtimes.co.uk/tyler-winklevoss-gemini-will-have-positive-effect-price-bitcoin-1523331</link>
-            <guid isPermaLink="false">861c7fa5-9898-4557-9d96-3a1c5089ad16</guid>
-            <pubDate>Sun, 11 Oct 2015 01:24:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
