@@ -5,8 +5,15 @@
         <description><![CDATA[Bitcoin]]></description>
         <link>https://thegrid.ai/bitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 13 Oct 2015 20:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2015 20:16:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Colorado Monthly Marijuana Sales Top $100,000,000 with No Banking Partners in Sight]]></title>
+            <description><![CDATA[<article><h1>Colorado Monthly Marijuana Sales Top $100,000,000 with No Banking Partners in Sight</h1><p>The Colorado Department of Revenue released data showing recreational pot sales at $59.2 million in August, with medical marijuana dispensaries reaching $41.4 million for a total of $100.6 million in sales overall.</p><img src="https://www.cryptocoinsnews.com/wp-content/uploads/2015/10/marijuana-money.jpg"></article>]]></description>
+            <link>https://www.cryptocoinsnews.com/colorado-monthly-marijuana-sales-top-100000-no-banking-partners-sight/</link>
+            <guid isPermaLink="false">04578efe-114b-4cea-acaf-666b3d5ad5e9</guid>
+            <pubDate>Tue, 13 Oct 2015 20:14:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[People of Bitcoin: The Philanthropist]]></title>
             <description><![CDATA[<article><h1>People of Bitcoin: The Philanthropist</h1><p>For this month's "People of Bitcoin" column, we decided to turn our focus to a woman who has made the currency part of her professional and philanthropic mission. We're interviewing Connie Gallippi, the Founder and Executive Director of BitGive.</p><img src="https://cdn.cheapair.com/uploads/2015/10/humans_of_bitcoin-banner-connie_gallippi-v1.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://insidebitcoins.com/news/bitcoin-the-end-of-money-as-we-know-it-2015-film-review/33672</link>
             <guid isPermaLink="false">f3e9e5de-d31a-4121-809b-3bcc8a087550</guid>
             <pubDate>Sun, 11 Oct 2015 03:14:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[San Diego's New Ocean Beach Bitcoin ATM - Bitcoin News]]></title>
-            <description><![CDATA[<article><h1>San Diego's New Ocean Beach Bitcoin ATM - Bitcoin News</h1><p>A new Bitcoin ATM was unveiled in Ocean Beach, San Diego on October 8 by the company Coinsource. Co-founder Travis Gough was on hand during the inaugural party, providing full demonstrations held by the company and local Bitcoin enthusiasts. The ATM has the standard 7% fees that usual teller machines have, but this one offers large purchasers reduced fees.</p><img src="https://news.bitcoin.com/wp-content/uploads/2015/10/ob.jpg"></article>]]></description>
-            <link>https://news.bitcoin.com/san-diegos-new-ocean-beach-bitcoin-atm/</link>
-            <guid isPermaLink="false">99690548-a48b-4470-ba42-c4b32937d993</guid>
-            <pubDate>Sun, 11 Oct 2015 03:07:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
