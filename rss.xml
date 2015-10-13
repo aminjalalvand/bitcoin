@@ -5,8 +5,22 @@
         <description><![CDATA[Bitcoin]]></description>
         <link>https://thegrid.ai/bitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 12 Oct 2015 20:07:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2015 14:08:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blockstream to Launch First Sidechain for Bitcoin Exchanges]]></title>
+            <description><![CDATA[<article><h1>Blockstream to Launch First Sidechain for Bitcoin Exchanges</h1><p>Nearly one year after the release of its sidechains white paper, bitcoin technology startup Blockstream has announced the first commercial application of the technology. Dubbed Liquid, the unlaunched offering will serve bitcoin exchanges, payment processors and traders by reducing the time in which bitcoin-denominated funds can be transferred between accounts at these institutions.</p><img src="http://media.coindesk.com/2015/10/shutterstock_153938573.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/blockstream-commercial-sidechain-bitcoin-exchanges/</link>
+            <guid isPermaLink="false">59627387-a261-4a82-bb22-cc4c2707e6f0</guid>
+            <pubDate>Tue, 13 Oct 2015 14:07:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scorechain Raises $500k for European Bitcoin Compliance Solution]]></title>
+            <description><![CDATA[<article><h1>Scorechain Raises $500k for European Bitcoin Compliance Solution</h1><p>Bitcoin compliance solutions provider Scorechain has raised €500,000 ($570,000) in seed funding from an undisclosed group of angel investors. The Luxembourg-based startup is seeking to target both bitcoin companies and traditional financial institutions with a suite of services that help clients meet regulatory and compliance requirements, through business intelligence and risk analysis tools that illuminate transaction histories on the blockchain.</p><img src="http://media.coindesk.com/2015/10/Screen-Shot-2015-10-12-at-9.33.11-AM.png"></article>]]></description>
+            <link>http://www.coindesk.com/scorechain-500k-europe-bitcoin-compliance/</link>
+            <guid isPermaLink="false">cc9f76dd-c7b9-419e-980b-72a1f8aa9af4</guid>
+            <pubDate>Tue, 13 Oct 2015 03:11:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Bitcoin "Formula": Energy / Time = Truth]]></title>
             <description><![CDATA[<article><h1>The Bitcoin "Formula": Energy / Time = Truth</h1><p>(or "Why R3, Blythe Masters, Ethereum and "Bankchains" Are All Wrong") Bitcoin is an Information Network backed by Energy / Time ( = Power) Information is only valuable if it's true. ELI50: Bitcoin "Explained As If I Was 50" (the philosophical version): Bitcoin is "backed" by electricity and time.</p><img src="https://s0.wp.com/i/blank.jpg"></article>]]></description>
@@ -62,20 +76,6 @@
             <link>https://bitcointalk.org/index.php?topic=1129639.0</link>
             <guid isPermaLink="false">9b5e9cd4-ea98-41ff-b669-bf654f2a8d3c</guid>
             <pubDate>Sun, 11 Oct 2015 02:49:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin: New Generation Of 'Hard' Wallets Bodes Well For Long Term Value]]></title>
-            <description><![CDATA[<article><h1>Bitcoin: New Generation Of 'Hard' Wallets Bodes Well For Long Term Value</h1><p>It doesn't take a genius to see that the future of Bitcoin as a currency depends on its value, or rather people's perception of its value. In this context, value does not necessarily equate to price.</p><img src="http://www.nasdaq.com/images/news/slideshows/virtual-currency/bitcoin-01.jpg"></article>]]></description>
-            <link>http://www.nasdaq.com/article/bitcoin-new-generation-of-hard-wallets-bodes-well-for-long-term-value-cm528108</link>
-            <guid isPermaLink="false">4f2585e4-f860-4635-ac40-a7f5d69ca9c8</guid>
-            <pubDate>Sun, 11 Oct 2015 01:53:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin in the Headlines: Gemini's Stellar Debut]]></title>
-            <description><![CDATA[<article><h1>Bitcoin in the Headlines: Gemini's Stellar Debut</h1><p>It's been a busy week in bitcoinland, with the launch of Gemini - the Winklevoss brothers' long-awaited bitcoin exchange - leading the digital currency's narrative in the mainstream press. More positive news came from Santander InnoVentures - the Spanish megabank's VC firm - in the form of its contribution to Ripple's Series A funding round.</p><img src="http://media.coindesk.com/2015/10/bitcoin-spotlight.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/bitcoin-in-the-headlines-geminis-stellar-debut/</link>
-            <guid isPermaLink="false">52226f7b-d508-4595-8d82-a64675ad8cea</guid>
-            <pubDate>Sun, 11 Oct 2015 01:51:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
