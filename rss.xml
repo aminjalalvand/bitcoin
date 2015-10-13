@@ -5,8 +5,15 @@
         <description><![CDATA[Bitcoin]]></description>
         <link>https://thegrid.ai/bitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 13 Oct 2015 14:08:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2015 16:19:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to unlock the future of money and create a fairer world - Virgin.com]]></title>
+            <description><![CDATA[<article><h1>How to unlock the future of money and create a fairer world - Virgin.com</h1><p>"Everything around you that you call life was made up by people that were no smarter than you. And you can change it. You can influence it. You can build your own things that other people can use. Once you learn that you'll never be the same again."</p><img src="http://www.virgin.com/sites/default/files/Articles/Getty/banknew_one_getty.jpg"></article>]]></description>
+            <link>http://www.virgin.com/entrepreneur/how-to-unlock-the-future-of-money-and-create-a-fairer-world</link>
+            <guid isPermaLink="false">f3aee12d-a2a0-436d-b427-325fa57e5c46</guid>
+            <pubDate>Tue, 13 Oct 2015 16:18:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blockstream to Launch First Sidechain for Bitcoin Exchanges]]></title>
             <description><![CDATA[<article><h1>Blockstream to Launch First Sidechain for Bitcoin Exchanges</h1><p>Nearly one year after the release of its sidechains white paper, bitcoin technology startup Blockstream has announced the first commercial application of the technology. Dubbed Liquid, the unlaunched offering will serve bitcoin exchanges, payment processors and traders by reducing the time in which bitcoin-denominated funds can be transferred between accounts at these institutions.</p><img src="http://media.coindesk.com/2015/10/shutterstock_153938573.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://moneymorning.com/2015/10/09/the-bitcoin-price-move-no-one-predicted-and-what-it-tells-us/</link>
             <guid isPermaLink="false">e75c28b5-ad17-40c1-8904-909e793dc430</guid>
             <pubDate>Sun, 11 Oct 2015 02:53:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How much do you think 1 Bitcoin will be worth in 2020?]]></title>
-            <description><![CDATA[<article><h1>How much do you think 1 Bitcoin will be worth in 2020?</h1><img src="https://bitcointalk.org/useravatars/avatar_266490.jpg"></article>]]></description>
-            <link>https://bitcointalk.org/index.php?topic=1129639.0</link>
-            <guid isPermaLink="false">9b5e9cd4-ea98-41ff-b669-bf654f2a8d3c</guid>
-            <pubDate>Sun, 11 Oct 2015 02:49:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
