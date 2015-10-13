@@ -5,8 +5,15 @@
         <description><![CDATA[Bitcoin]]></description>
         <link>https://thegrid.ai/bitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 13 Oct 2015 16:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2015 20:15:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[People of Bitcoin: The Philanthropist]]></title>
+            <description><![CDATA[<article><h1>People of Bitcoin: The Philanthropist</h1><p>For this month's "People of Bitcoin" column, we decided to turn our focus to a woman who has made the currency part of her professional and philanthropic mission. We're interviewing Connie Gallippi, the Founder and Executive Director of BitGive.</p><img src="https://cdn.cheapair.com/uploads/2015/10/humans_of_bitcoin-banner-connie_gallippi-v1.jpg"></article>]]></description>
+            <link>https://www.cheapair.com/blog/bitcoin/people-of-bitcoin-the-philanthropist/</link>
+            <guid isPermaLink="false">fca1b937-6a26-43a5-a749-d6404a2f660f</guid>
+            <pubDate>Tue, 13 Oct 2015 20:13:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to unlock the future of money and create a fairer world - Virgin.com]]></title>
             <description><![CDATA[<article><h1>How to unlock the future of money and create a fairer world - Virgin.com</h1><p>"Everything around you that you call life was made up by people that were no smarter than you. And you can change it. You can influence it. You can build your own things that other people can use. Once you learn that you'll never be the same again."</p><img src="http://www.virgin.com/sites/default/files/Articles/Getty/banknew_one_getty.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://news.bitcoin.com/san-diegos-new-ocean-beach-bitcoin-atm/</link>
             <guid isPermaLink="false">99690548-a48b-4470-ba42-c4b32937d993</guid>
             <pubDate>Sun, 11 Oct 2015 03:07:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Bitcoin Price Move No One Predicted - and What It Tells Us]]></title>
-            <description><![CDATA[<article><h1>The Bitcoin Price Move No One Predicted - and What It Tells Us</h1><p>It has become an article of faith that the Bitcoin price is volatile. And when Bitcoin burst into the public consciousness back in 2013, it was true. Bitcoin prices soared 8,500% in 2013 only to fall 85% by January of this year.</p><img src="http://moneymorning.com/wp-content/blogs.dir/1/files/2015/10/10-9-15-Bitcoin-price.png"></article>]]></description>
-            <link>http://moneymorning.com/2015/10/09/the-bitcoin-price-move-no-one-predicted-and-what-it-tells-us/</link>
-            <guid isPermaLink="false">e75c28b5-ad17-40c1-8904-909e793dc430</guid>
-            <pubDate>Sun, 11 Oct 2015 02:53:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
