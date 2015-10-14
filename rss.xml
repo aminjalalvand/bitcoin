@@ -5,8 +5,15 @@
         <description><![CDATA[Bitcoin]]></description>
         <link>https://thegrid.ai/bitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 14 Oct 2015 16:03:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2015 16:06:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Firm Inks Compliance Deal with Banking Giant Barclays]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Firm Inks Compliance Deal with Banking Giant Barclays</h1><p>UK banking giant Barclays signed contracts with the eight graduates of its New York-based FinTech accelerator program today, two of which are focused on applications of blockchain technology. Co-hosted by TechStars, the 11 startups graduating the 13-week program included bitcoin compliance firm Chainalysis and Wave, a company building a paperless billing service on the blockchain.</p><img src="http://media.coindesk.com/2015/10/compliance-regulation-e1444768068108.jpg"></article>]]></description>
+            <link>http://www.coindesk.com/bitcoin-firm-inks-compliance-deal-with-banking-giant-barclays/</link>
+            <guid isPermaLink="false">f3edbc07-3930-4740-abdb-ffa25a3dc196</guid>
+            <pubDate>Wed, 14 Oct 2015 16:03:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[People of Bitcoin: The Philanthropist]]></title>
             <description><![CDATA[<article><h1>People of Bitcoin: The Philanthropist</h1><p>For this month's "People of Bitcoin" column, we decided to turn our focus to a woman who has made the currency part of her professional and philanthropic mission. We're interviewing Connie Gallippi, the Founder and Executive Director of BitGive.</p><img src="https://cdn.cheapair.com/uploads/2015/10/humans_of_bitcoin-banner-connie_gallippi-v1.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.cryptocoinsnews.com/entrepreneurs-plan-identabit-identity-based-bitcoin-alternative/</link>
             <guid isPermaLink="false">913dafe1-7c47-4bf2-9f43-fed2f8a343b5</guid>
             <pubDate>Sun, 11 Oct 2015 19:33:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wow, check out Bitcoin growth on LocalBitcoins Volume Charts * /r/Bitcoin]]></title>
-            <description><![CDATA[<article><h1>Wow, check out Bitcoin growth on LocalBitcoins Volume Charts * /r/Bitcoin</h1><p>67 points and 24 comments so far on reddit</p><img src="https://i.redditmedia.com/bGBdcsF_7Y7FLcOOvV4eU1rRPG3ZxlxF90zHhXkpahQ.jpg?w=320&s=ad679bfd7930c05e6a71d0697292486c"></article>]]></description>
-            <link>https://www.reddit.com/r/Bitcoin/comments/3obqqm/wow_check_out_bitcoin_growth_on_localbitcoins/</link>
-            <guid isPermaLink="false">ef50e6fd-ebec-4a9c-814b-2ded593d05a0</guid>
-            <pubDate>Sun, 11 Oct 2015 16:52:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
