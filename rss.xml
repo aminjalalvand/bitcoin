@@ -5,8 +5,15 @@
         <description><![CDATA[Bitcoin]]></description>
         <link>https://thegrid.ai/bitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 14 Oct 2015 16:06:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2015 16:07:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hedge Fund Borrows $10M in Stock Via the Bitcoin Blockchain]]></title>
+            <description><![CDATA[<article><h1>Hedge Fund Borrows $10M in Stock Via the Bitcoin Blockchain</h1><p>Yesterday morning, New York time, a company called Clique Fund used the bitcoin blockchain to borrow $10 million in stock. Bitcoin is the world's most popular digital currency, and the blockchain is the vast online ledger that underpins bitcoin, tabulating transactions using thousands of independent machines spread across the globe.</p><img src="http://www.wired.com/wp-content/uploads/2015/10/GettyImages-478012632-1200x630.jpg"></article>]]></description>
+            <link>http://www.wired.com/2015/10/hedge-fund-borrows-10m-in-stock-via-the-bitcoin-blockchain/</link>
+            <guid isPermaLink="false">475adb98-9fc4-4c0c-bcc2-25b64ecab075</guid>
+            <pubDate>Wed, 14 Oct 2015 16:04:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Firm Inks Compliance Deal with Banking Giant Barclays]]></title>
             <description><![CDATA[<article><h1>Bitcoin Firm Inks Compliance Deal with Banking Giant Barclays</h1><p>UK banking giant Barclays signed contracts with the eight graduates of its New York-based FinTech accelerator program today, two of which are focused on applications of blockchain technology. Co-hosted by TechStars, the 11 startups graduating the 13-week program included bitcoin compliance firm Chainalysis and Wave, a company building a paperless billing service on the blockchain.</p><img src="http://media.coindesk.com/2015/10/compliance-regulation-e1444768068108.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://cointelegraph.com/news/115404/purseio-shuts-down-site-denies-bitcoin-theft-claims-by-users</link>
             <guid isPermaLink="false">ca8bc7ea-da44-4a6a-948b-a5de275f0f50</guid>
             <pubDate>Mon, 12 Oct 2015 17:17:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Entrepreneurs Plan Identabit; Identity-Based Bitcoin Alternative]]></title>
-            <description><![CDATA[<article><h1>Entrepreneurs Plan Identabit; Identity-Based Bitcoin Alternative</h1><p>An Australia-based startup has announced plans for a digital currency called Identabit that will enable regulatory acceptance by way of user association. The startup, Thinking Active, characterizes Identabit as the first identity-ensured, decentralized currency. It represents a way to liberate decentralized currencies and will be an alternative to bitcoin, according to a recent press release.</p><img src="https://www.cryptocoinsnews.com/wp-content/uploads/2015/07/identity-theft.jpg"></article>]]></description>
-            <link>https://www.cryptocoinsnews.com/entrepreneurs-plan-identabit-identity-based-bitcoin-alternative/</link>
-            <guid isPermaLink="false">913dafe1-7c47-4bf2-9f43-fed2f8a343b5</guid>
-            <pubDate>Sun, 11 Oct 2015 19:33:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
