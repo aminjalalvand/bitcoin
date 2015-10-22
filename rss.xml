@@ -4,8 +4,15 @@
         <description><![CDATA[Bitcoin]]></description>
         <link>https://thegrid.ai/bitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 22 Oct 2015 05:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2015 16:46:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[EU's Top Court Rules That Bitcoin Exchange Is Tax-Free]]></title>
+            <description><![CDATA[<article><h1>EU's Top Court Rules That Bitcoin Exchange Is Tax-Free</h1><p>Bitcoin and other virtual currencies can be exchanged tax free, the European Union's top court said in a ruling that puts them on a more equal footing with traditional cash. Value added tax -- a type of sales levy -- needn't be applied because the business involves "the exchange of different means of payment," the EU Court of Justice in Luxembourg ruled Thursday.</p><img src="http://assets.bwbx.io/images/iHJOo8eUsL10/v1/-1x-1.jpg"></article>]]></description>
+            <link>http://www.bloomberg.com/news/articles/2015-10-22/bitcoin-virtual-currency-exchange-is-tax-free-eu-court-says-ig21wzcd</link>
+            <guid isPermaLink="false">2be3547d-6baf-4109-ae5f-50e69aa65f5d</guid>
+            <pubDate>Thu, 22 Oct 2015 16:46:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[It's Time to Uber the Big Banks]]></title>
             <description><![CDATA[<article><h1>It's Time to Uber the Big Banks</h1><p>There's no doubt technology forces transformation. Some technology even completely 'disrupts' whole industries as you'll see below. Some people push back against it. That's happened through all of human history. The trick is to embrace, work with and understand the technology. Right now you're seeing tangible change in major industry from taxi's (Uber) to media (Netflix).</p><img src="http://www.dailyreckoning.com.au/wp-content/uploads/2015/05/banks_6002.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.coindesk.com/scorechain-500k-europe-bitcoin-compliance/</link>
             <guid isPermaLink="false">cc9f76dd-c7b9-419e-980b-72a1f8aa9af4</guid>
             <pubDate>Tue, 13 Oct 2015 03:11:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Bitcoin "Formula": Energy / Time = Truth]]></title>
-            <description><![CDATA[<article><h1>The Bitcoin "Formula": Energy / Time = Truth</h1><p>(or "Why R3, Blythe Masters, Ethereum and "Bankchains" Are All Wrong") Bitcoin is an Information Network backed by Energy / Time ( = Power) Information is only valuable if it's true. ELI50: Bitcoin "Explained As If I Was 50" (the philosophical version): Bitcoin is "backed" by electricity and time.</p><img src="https://s0.wp.com/i/blank.jpg"></article>]]></description>
-            <link>http://webonanza.com/2015/10/12/the-bitcoin-formula-energy-time-truth/</link>
-            <guid isPermaLink="false">0e514046-edc4-4c06-9b9f-518c729a3d7a</guid>
-            <pubDate>Mon, 12 Oct 2015 20:05:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
