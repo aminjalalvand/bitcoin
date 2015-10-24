@@ -4,8 +4,22 @@
         <description><![CDATA[Bitcoin]]></description>
         <link>https://thegrid.ai/bitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 22 Oct 2015 16:46:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2015 22:46:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin is a currency, the EU admits]]></title>
+            <description><![CDATA[<article><h1>Bitcoin is a currency, the EU admits</h1><p>When it comes to bitcoin, Europe's highest court and the US's major tax agency don't agree on exactly what it is. In a decision last week, Europe's Court of Justice effectively decided that bitcoin is a currency, and therefore transactions in which bitcoins are exchanged for other currencies are exempt from value-added taxes.</p><img src="https://i0.wp.com/qzprod.files.wordpress.com/2015/10/rts2x09.jpg?fit=440%2C330&quality=80&strip=all"></article>]]></description>
+            <link>http://qz.com/532103/bitcoin-is-a-currency-the-eu-admits/</link>
+            <guid isPermaLink="false">0ebedc00-602a-45a0-8ae0-7f41ed257d35</guid>
+            <pubDate>Sat, 24 Oct 2015 22:44:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Bitcoin industry just got its own Justice League]]></title>
+            <description><![CDATA[<article><h1>The Bitcoin industry just got its own Justice League</h1><p>Digital currency criminals, beware: Here comes the Blockchain Alliance. This week, Coin Center and the Chamber of Digital Commerce announced the creation of the Blockchain Alliance, an ongoing public-private forum between the bitcoin community (that is, startup executives and policy pundits) and law enforcement groups like the FBI and the U.S.</p><img src="https://fortunedotcom.files.wordpress.com/2015/04/450921680.jpg?quality=80&w=1024"></article>]]></description>
+            <link>http://fortune.com/2015/10/23/bitcoin-blockchain-alliance/</link>
+            <guid isPermaLink="false">2573fba6-ab3c-40cb-84ea-26b83a392985</guid>
+            <pubDate>Sat, 24 Oct 2015 22:44:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[EU's Top Court Rules That Bitcoin Exchange Is Tax-Free]]></title>
             <description><![CDATA[<article><h1>EU's Top Court Rules That Bitcoin Exchange Is Tax-Free</h1><p>Bitcoin and other virtual currencies can be exchanged tax free, the European Union's top court said in a ruling that puts them on a more equal footing with traditional cash. Value added tax -- a type of sales levy -- needn't be applied because the business involves "the exchange of different means of payment," the EU Court of Justice in Luxembourg ruled Thursday.</p><img src="http://assets.bwbx.io/images/iHJOo8eUsL10/v1/-1x-1.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://www.virgin.com/entrepreneur/how-to-unlock-the-future-of-money-and-create-a-fairer-world</link>
             <guid isPermaLink="false">f3aee12d-a2a0-436d-b427-325fa57e5c46</guid>
             <pubDate>Tue, 13 Oct 2015 16:18:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockstream to Launch First Sidechain for Bitcoin Exchanges]]></title>
-            <description><![CDATA[<article><h1>Blockstream to Launch First Sidechain for Bitcoin Exchanges</h1><p>Nearly one year after the release of its sidechains white paper, bitcoin technology startup Blockstream has announced the first commercial application of the technology. Dubbed Liquid, the unlaunched offering will serve bitcoin exchanges, payment processors and traders by reducing the time in which bitcoin-denominated funds can be transferred between accounts at these institutions.</p><img src="http://media.coindesk.com/2015/10/shutterstock_153938573.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/blockstream-commercial-sidechain-bitcoin-exchanges/</link>
-            <guid isPermaLink="false">59627387-a261-4a82-bb22-cc4c2707e6f0</guid>
-            <pubDate>Tue, 13 Oct 2015 14:07:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scorechain Raises $500k for European Bitcoin Compliance Solution]]></title>
-            <description><![CDATA[<article><h1>Scorechain Raises $500k for European Bitcoin Compliance Solution</h1><p>Bitcoin compliance solutions provider Scorechain has raised €500,000 ($570,000) in seed funding from an undisclosed group of angel investors. The Luxembourg-based startup is seeking to target both bitcoin companies and traditional financial institutions with a suite of services that help clients meet regulatory and compliance requirements, through business intelligence and risk analysis tools that illuminate transaction histories on the blockchain.</p><img src="http://media.coindesk.com/2015/10/Screen-Shot-2015-10-12-at-9.33.11-AM.png"></article>]]></description>
-            <link>http://www.coindesk.com/scorechain-500k-europe-bitcoin-compliance/</link>
-            <guid isPermaLink="false">cc9f76dd-c7b9-419e-980b-72a1f8aa9af4</guid>
-            <pubDate>Tue, 13 Oct 2015 03:11:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
