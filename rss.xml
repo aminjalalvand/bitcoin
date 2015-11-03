@@ -4,8 +4,15 @@
         <description><![CDATA[Bitcoin]]></description>
         <link>https://thegrid.ai/bitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 Nov 2015 16:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2015 17:10:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin to be major reserve currency by 2030: Research]]></title>
+            <description><![CDATA[<article><h1>Bitcoin to be major reserve currency by 2030: Research</h1><p>Bitcoin industry insiders have issued an optimistic prediction for the cryptocurrency over the next few decades, suggesting it could be as widely used as the Swiss franc or the Australian dollar. U.K.-based Magister Advisors, which advises the technology industry on mergers and acquisitions, interviewed thirty of the leading bitcoin companies from across the globe.</p><img src="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2014/05/08/101655816-483520319rr.1910x1000.jpg"></article>]]></description>
+            <link>http://www.cnbc.com/2015/11/03/bitcoin-to-be-6th-largest-reserve-currency-by-2030-research.html</link>
+            <guid isPermaLink="false">5d30f6e4-0414-4499-b8d9-5fe9f6d02ab1</guid>
+            <pubDate>Tue, 03 Nov 2015 17:10:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Is Suddenly Surging Again]]></title>
             <description><![CDATA[<article><h1>Bitcoin Is Suddenly Surging Again</h1><p>Bitcoin is back in the news, but this time it seems to be for all the right reasons. After a blockbuster 2013, the digital currency tumbled throughout 2014 on negative headlines, such as the February 2014 bankruptcy filing of Mt. Gox, a Tokyo-based Bitcoin exchange.</p><img src="http://assets.bwbx.io/images/iFx.gqI6Ox2M/v1/-1x-1.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.cryptocoinsnews.com/colorado-monthly-marijuana-sales-top-100000-no-banking-partners-sight/</link>
             <guid isPermaLink="false">04578efe-114b-4cea-acaf-666b3d5ad5e9</guid>
             <pubDate>Tue, 13 Oct 2015 20:14:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[People of Bitcoin: The Philanthropist]]></title>
-            <description><![CDATA[<article><h1>People of Bitcoin: The Philanthropist</h1><p>For this month's "People of Bitcoin" column, we decided to turn our focus to a woman who has made the currency part of her professional and philanthropic mission. We're interviewing Connie Gallippi, the Founder and Executive Director of BitGive.</p><img src="https://cdn.cheapair.com/uploads/2015/10/humans_of_bitcoin-banner-connie_gallippi-v1.jpg"></article>]]></description>
-            <link>https://www.cheapair.com/blog/bitcoin/people-of-bitcoin-the-philanthropist/</link>
-            <guid isPermaLink="false">fca1b937-6a26-43a5-a749-d6404a2f660f</guid>
-            <pubDate>Tue, 13 Oct 2015 20:13:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
