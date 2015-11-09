@@ -4,8 +4,15 @@
         <description><![CDATA[Bitcoin]]></description>
         <link>https://thegrid.ai/bitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 Nov 2015 15:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2015 21:16:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Say the Big, Bad 'B' Word: Bitcoin and the Internet of Money]]></title>
+            <description><![CDATA[<article><h1>Say the Big, Bad 'B' Word: Bitcoin and the Internet of Money</h1><p>It has been a bit amusing watching as intellectuals and "thought leaders," financial industry executives, technologists and even the media itself have fallen in love with "the blockchain," "distributed ledgers," and other phrases to talk about the innovation happening in how trust and value exchange work on the Internet.</p><img src="https://recodetech.files.wordpress.com/2015/11/pasted-image-0.png?w=640&h=360"></article>]]></description>
+            <link>http://recode.net/2015/11/09/say-the-big-bad-b-word-bitcoin-and-the-internet-of-money/</link>
+            <guid isPermaLink="false">abc812d5-1b69-4642-89fa-e7926ce12711</guid>
+            <pubDate>Mon, 09 Nov 2015 21:16:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin Goes Ballistic]]></title>
             <description><![CDATA[<article><h1>Bitcoin Goes Ballistic</h1><p>A huge rally. China turns to Bitcoin. On September 8, I wrote an article for Seeking Alpha called, Bitcoin Is For Real And It Is All About The Flow Of Money. In that piece, I wrote about the cryptocurrency and blockchain technology. Recently, uncertainty has reigned supreme in terms of the global economic landscape.</p><img src="https://staticseekingalpha.a.ssl.fastly.net/uploads/2015/11/9/saupload_shutterstock_176573198_thumb1.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.businessinsider.com/blythe-masters-on-blockchain-2015-10</link>
             <guid isPermaLink="false">437c389b-0296-4dee-a116-24d2fc911feb</guid>
             <pubDate>Tue, 20 Oct 2015 21:24:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hedge Fund Borrows $10M in Stock Via the Bitcoin Blockchain]]></title>
-            <description><![CDATA[<article><h1>Hedge Fund Borrows $10M in Stock Via the Bitcoin Blockchain</h1><p>Yesterday morning, New York time, a company called Clique Fund used the bitcoin blockchain to borrow $10 million in stock. Bitcoin is the world's most popular digital currency, and the blockchain is the vast online ledger that underpins bitcoin, tabulating transactions using thousands of independent machines spread across the globe.</p><img src="http://www.wired.com/wp-content/uploads/2015/10/GettyImages-478012632-1200x630.jpg"></article>]]></description>
-            <link>http://www.wired.com/2015/10/hedge-fund-borrows-10m-in-stock-via-the-bitcoin-blockchain/</link>
-            <guid isPermaLink="false">475adb98-9fc4-4c0c-bcc2-25b64ecab075</guid>
-            <pubDate>Wed, 14 Oct 2015 16:04:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
