@@ -4,8 +4,15 @@
         <description><![CDATA[Bitcoin]]></description>
         <link>https://thegrid.ai/bitcoin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 Nov 2015 02:44:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2015 15:24:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bitcoin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Goes Ballistic]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Goes Ballistic</h1><p>A huge rally. China turns to Bitcoin. On September 8, I wrote an article for Seeking Alpha called, Bitcoin Is For Real And It Is All About The Flow Of Money. In that piece, I wrote about the cryptocurrency and blockchain technology. Recently, uncertainty has reigned supreme in terms of the global economic landscape.</p><img src="https://staticseekingalpha.a.ssl.fastly.net/uploads/2015/11/9/saupload_shutterstock_176573198_thumb1.jpg"></article>]]></description>
+            <link>http://seekingalpha.com/article/3663726-bitcoin-goes-ballistic</link>
+            <guid isPermaLink="false">2b1e9a62-48b7-46ee-ab76-f8f8bbffe044</guid>
+            <pubDate>Mon, 09 Nov 2015 15:23:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin will be 6th biggest reserve currency by 2030 - study]]></title>
             <description><![CDATA[<article><h1>Bitcoin will be 6th biggest reserve currency by 2030 - study</h1><p>Bitcoin will become the world's sixth largest reserve currency by 2030, according to an investment agency. The rising popularity of the virtual currency will also see banks invest around $1 billion in blockchain technology. The claims were made by UK-based Magister Advisors, which helps to advise the technology industry on mergers and acquisitions.</p><img src="https://cdn.rt.com/files/2015.11/article/563a301cc46188913e8b4591.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.wired.com/2015/10/hedge-fund-borrows-10m-in-stock-via-the-bitcoin-blockchain/</link>
             <guid isPermaLink="false">475adb98-9fc4-4c0c-bcc2-25b64ecab075</guid>
             <pubDate>Wed, 14 Oct 2015 16:04:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin Firm Inks Compliance Deal with Banking Giant Barclays]]></title>
-            <description><![CDATA[<article><h1>Bitcoin Firm Inks Compliance Deal with Banking Giant Barclays</h1><p>UK banking giant Barclays signed contracts with the eight graduates of its New York-based FinTech accelerator program today, two of which are focused on applications of blockchain technology. Co-hosted by TechStars, the 11 startups graduating the 13-week program included bitcoin compliance firm Chainalysis and Wave, a company building a paperless billing service on the blockchain.</p><img src="http://media.coindesk.com/2015/10/compliance-regulation-e1444768068108.jpg"></article>]]></description>
-            <link>http://www.coindesk.com/bitcoin-firm-inks-compliance-deal-with-banking-giant-barclays/</link>
-            <guid isPermaLink="false">f3edbc07-3930-4740-abdb-ffa25a3dc196</guid>
-            <pubDate>Wed, 14 Oct 2015 16:03:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
